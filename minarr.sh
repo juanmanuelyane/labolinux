@@ -9,3 +9,4 @@ do
     echo $cadena
     echo $nuevohash
 done
+echo "listo"
